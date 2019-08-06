@@ -15,5 +15,5 @@ X12-X17 - Amount of bill statement (NT dollar). X12 = amount of bill statement i
 X18-X23 - Amount of previous payment (NT dollar). X18 = amount paid in September, 2005; X19 = amount paid in August, 2005; . . .;X23 = amount paid in April, 2005.
 
 Inference from this dataset:
-After importing important libraries and csv file, we did Data Preprocessing (EDA), then there comes modelling. We applied most of the models ike Logistic Regression, Decision Tree Model, Random Forest Model, Bagging Model, Gradient Boosting Model and lastly we applied voting classifier to predict the accuracy.
+After importing important libraries and csv file, we did Data Preprocessing (EDA), then there comes modelling. We applied most of the models ike Logistic Regression (, Decision Tree Model, Random Forest Model, Bagging Model, Gradient Boosting Model and lastly we applied voting classifier to predict the accuracy.
 The final accuracy comes out to be 81%
