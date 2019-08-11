@@ -4,7 +4,9 @@ The evaluation metric is the accuracy.
 
 Step taken to acheive the objective on this dataset:
 Step 1: Imported all important libraries pertaining to machine learning
+
 Step 2: First we read the train1 csv file.
+
 Step 3: We found the basic parameters like head, columns,etc, we found the shape of the train dataset. We dropped the unnecessary columns as it would have affected the accuracy. We also used the decribe function to check the mean, standard deviation, etc. We used heatmap to find out the correlation(map form). We used pairplot to find the correaltion between pairs(graph form). After that i applied dummification on the categorical values.(through dummication we convert categorical values into numerical values).
 
 Step 4: I merged all the three train data set and formed & named it as newdata
