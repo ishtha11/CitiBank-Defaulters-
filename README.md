@@ -1,4 +1,4 @@
-# CitiBank-Defaulters-
+# CitiBank Defaulters 
 The objective of this Dataset is that We have to find whether the target variable is the defaulter or not.
 The evaluation metric is the accuracy.
 
@@ -19,7 +19,7 @@ Step7: Then by using Bagging Model we got 80% accuracy. In, Gradient Boosting Mo
 Voting classifier and got 81.7% accuracy.
 
 
-Final Accuracy turns out to be 81.3%
+=> Final Accuracy turns out to be 81.3%
 
 
 
